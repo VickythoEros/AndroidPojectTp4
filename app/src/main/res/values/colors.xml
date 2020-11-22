@@ -11,4 +11,6 @@
     <color name="vert">#00e600</color>
     <color name="bleu_ciel">#1190BA</color>
     <color name="orange">#E4650A</color>
+    <color name="blue_amelior">#05143A</color>
+    <color name="blue_sombre">#010819</color>
 </resources>
